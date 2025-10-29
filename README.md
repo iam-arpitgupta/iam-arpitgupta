@@ -26,7 +26,9 @@ I am always eager to learn new technologies and I want to contribute my tech exp
 - Databricks
 - CI/CD
 - Git, GitHub
-
+  
+**DS Essentials ->
+Python · PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook · Streamlit · BeautifulSoup · Plotly · SQL · R 
 > "In the world of coding, every bug is just a feature waiting to be discovered!" 🐛✨
 
 <div align="center">
