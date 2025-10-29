@@ -1,4 +1,4 @@
-# 👋 I'm Arpit Gupta
+# I'm Arpit Gupta
 ## Machine Learning Engineer | AI Developer | Data Scientist
 
 ### 🚀 About Me
