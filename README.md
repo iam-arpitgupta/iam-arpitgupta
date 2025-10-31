@@ -13,22 +13,33 @@ I am always eager to learn new technologies and I want to contribute my tech exp
 - Generative AI
 - MLOps
 - PySpark
-- LangChain, LangGraph
-- CrewAI, AutoGen
+- LangChain, LangGraph, CrewAI, AutoGen
+
 
 **Databases:** PostgreSQL, MongoDB
 
 **MLOps & DevOps Tools:**
 - Docker, Kubernetes
-- AWS
+- AWS 
 - MLflow, DVC
 - Prometheus, Grafana
 - Databricks
 - CI/CD
 - Git, GitHub
-  
+- kubeflow
+- Airflow
+- ZenML
+- K8 
+
+**Backend**
+- Flask
+- Fastapi
+- Django
+
 **DS Essentials ->
 Python · PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook · Streamlit · BeautifulSoup · Plotly · SQL · R 
+
+
 > "In the world of coding, every bug is just a feature waiting to be discovered!" 🐛✨
 
 <div align="center">
